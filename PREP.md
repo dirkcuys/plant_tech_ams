@@ -12,7 +12,7 @@ We will begin by installing the ESP8266 (that thingy in your box with the micro-
 
 - Open the Arduino IDE
 - Go to Files (for Windows) or Arduino (for Mac) > Preferences
-- Copy this: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+- Copy this: https://arduino.esp8266.com/stable/package_esp8266com_index.json
 - Paste it in the 'Additional Boards Managers URLs' field
 - Click OK and close the preferences window
 - Go to Tools > Board > Boards Manager...
